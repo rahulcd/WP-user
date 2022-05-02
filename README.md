@@ -16,7 +16,7 @@ As a first step, simply require the package via composer
 
 ## Without Composer
 
-1. Copy pluginajax folder in wp-content/plugins/ directory.
+1. Copy wp-user folder in wp-content/plugins/ directory.
 2. Login to your WordPress admin dashboard and navigate to plugins menu.
 3. Activate wp-user plugin.
 
