@@ -1,0 +1,19 @@
+{
+    "name": "rahulcd/WP-user",
+    "description": "User listing pluign by rahul",
+    "license": "GPL-2.0+",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Rahul",
+            "email": "rdfullstack@gmail.com"
+        }
+    ],
+    "support": {
+        "src": "https://github.com/rahulcd/WP-user",
+        "issues": "https://github.com/rahulcd/WP-user/issues"
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
